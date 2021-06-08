@@ -19,6 +19,11 @@ Radius of each node in the graph is scaled based on the degree of the node (Line
 Note: Regardless of which scale we use, we should avoid extreme node sizes (e.g., nodes that are mere points, or barely visible, as well as very large nodes). Failure to do so may result in a poor quality visualization. 
 
 
+
+![image](https://user-images.githubusercontent.com/8483205/121184473-bd987900-c82a-11eb-8bf6-d72a35bc3dcf.png)
+
+
+
 d. Pinning nodes (fixing node positions):
 
 when a node is double clicked, it pins the node’s position such that it will not be modified by the graph layout algorithm (note: pinned nodes can still be dragged around by the user but they will remain at their positions otherwise). Node pinning is an effective interaction technique to help users spatially organize nodes during graph exploration.
