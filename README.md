@@ -24,3 +24,7 @@ d. Pinning nodes (fixing node positions):
 when a node is double clicked, it pins the node’s position such that it will not be modified by the graph layout algorithm (note: pinned nodes can still be dragged around by the user but they will remain at their positions otherwise). Node pinning is an effective interaction technique to help users spatially organize nodes during graph exploration.
 Mark pinned nodes to visually distinguish them from unpinned nodes, e.g., pinned nodes are shown in a different color, border thickness or visually annotated with an “asterisk” (*), etc.
 Double clicking a pinned node unpins (unfreeze) its position and unmarks it.
+
+
+![image](https://user-images.githubusercontent.com/8483205/121184281-8c1fad80-c82a-11eb-8ab7-557d134a7d01.png)
+
